@@ -16,7 +16,7 @@ Links
 
 Более простой референс эффекта на плоскости без рельефа в Unity на ShaderGraph:
 
-![alt text](http://url/to/img.png)
+![Gif](https://github.com/phygitalism/vfx-test/blob/master/20181202133634.gif)
 
 ## Ограничения и допущения
 
