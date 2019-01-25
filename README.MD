@@ -7,7 +7,9 @@
 
 Links
 [https://www.youtube.com/watch?v=U7VpTpymnig&feature=youtu.be&t=187](https://www.youtube.com/watch?v=U7VpTpymnig&feature=youtu.be&t=187)
+
 [https://www.youtube.com/watch?v=9j0RTgXSLN0](https://www.youtube.com/watch?v=9j0RTgXSLN0)
+
 [https://www.youtube.com/watch?v=bsUjplrH5WM](https://www.youtube.com/watch?v=bsUjplrH5WM)
 
 Имеется некоторая видимая [цилиндрическая (круговая) волна](https://ru.wikipedia.org/wiki/Цилиндрическая_волна#/media/File:Blender3D_CircularWaveAnim.gif) , которая в виде скана проходит по какому-то мешу (рельефу). Волна должна видимо преображать меш, по которому прошла, то есть, например, из серых тонов в цвет. Также должна выделяться сама волна и граничащий с ней меш. Допустим, волна просто как какой-то расширяющийся цветной контур, а граничащий с ней меш изменяется по высотам. 
